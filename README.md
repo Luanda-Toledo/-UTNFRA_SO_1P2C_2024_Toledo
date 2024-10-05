@@ -1,5 +1,5 @@
-<p align="center"> # UTNFRA_SO_1P2C_2024_Toledo </p> <br>
-**Nombre:** Luanda <br>
-**Apellido:** Toledo <br>
-**Legajo:** 114653 <br>
-**División:** 314 
+<h1 align="center"> UTNFRA_SO_1P2C_2024_Toledo </h1> 
+<strong> Nombre:</strong> Luanda <br>
+<strong> Apellido:</strong> Toledo <br>
+<strong> Legajo:</strong> 114653 <br>
+<strong> División:</strong> 314 
